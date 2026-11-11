@@ -37,7 +37,7 @@ Battery Ring replaces the battery icon in the [Omarchy](https://omarchy.org) top
 
 <img src="docs/bar-with-storage.png" alt="A storage ring with a drive icon at 59%, next to the battery ring at 80%" width="480">
 
-The storage ring comes from [Bhandara](https://github.com/sudharamachandranrajeev/bhandara). Each ring has its own icon, so the two don't get mixed up.
+The storage ring comes from [Bhandara](https://github.com/sudharamachandranrajeev/bhandara-storage-monitor). Each ring has its own icon, so the two don't get mixed up.
 
 </details>
 
@@ -134,7 +134,7 @@ To work on it, edit the files in `~/.config/omarchy/plugins/battery-ring.bar/`. 
 
 ## Credits
 
-Built on Omarchy's power widget (`omarchy.power`), © David Heinemeier Hansson, MIT licence. The ring style matches the storage ring in [Bhandara](https://github.com/sudharamachandranrajeev/bhandara).
+Built on Omarchy's power widget (`omarchy.power`), © David Heinemeier Hansson, MIT licence. The ring style matches the storage ring in [Bhandara](https://github.com/sudharamachandranrajeev/bhandara-storage-monitor).
 
 ## License
 
