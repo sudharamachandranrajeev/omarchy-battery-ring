@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "battery-ring.bar",
+  "name": "Battery Ring",
+  "version": "0.1.0",
+  "author": "sudharamachandranrajeev",
+  "description": "Battery as a charge ring with a battery icon and percentage",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Battery Ring",
+    "description": "Battery as a charge ring with a battery icon and percentage",
+    "category": "System",
+    "defaultSection": "right",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.power"
+  }
+}
